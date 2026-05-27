@@ -1,0 +1,2 @@
+# Native desktop window. The Qt backend installs cleanly via pip (no sudo).
+pywebview[qt]==5.3.2
